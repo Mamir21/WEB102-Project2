@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Project2](https://github.com/user-attachments/assets/c10330bf-2dfb-4bd8-a26e-dd5a0dd4a9cf)
 
 GIF created with ...  
 [ScreenToGif](https://www.screentogif.com/) for Windows
